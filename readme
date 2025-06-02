@@ -1,0 +1,28 @@
+Project Overview
+This project implements a machine learning model to predict wine quality based on various physicochemical properties. The model uses Linear Regression to predict a numerical quality score from the input features.
+
+Dataset
+The dataset used is wine_quality_classification.csv which contains:
+
+Features: Various physicochemical properties of wines
+
+Target: A quality label ('low', 'medium', 'high') converted to numerical values (3, 5, 7 respectively)
+
+Requirements
+To run this project, you'll need:
+
+Python 3.x
+
+Jupyter Notebook (optional)
+
+Required Python packages:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
